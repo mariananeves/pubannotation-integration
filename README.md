@@ -13,4 +13,4 @@ Please cite the publication if you use the resources below.
 
 - [Cellosaurus_v33  dictionary](http://pubdictionaries.org/dictionaries/Cellosaurus_v33)
 - [Cellosaurus_v33 Annotator](http://pubannotation.org/annotators/Cellosaurus_v33)
-- Python script ('cellosaurus.py', in this repository) for post-processing of the cell lines after prediction with the above annotator. Predictions for other entities with the [PubTator annotator](http://pubannotation.org/annotators/PubTator) is necessary.
+- Python script (`cellosaurus.py`, in this repository) for post-processing of the cell lines after prediction with the above annotator. Predictions for other entities with the [PubTator annotator](http://pubannotation.org/annotators/PubTator) is necessary.
